@@ -1,0 +1,23 @@
+
+.tb{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+
+}
+.title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row,h1{
+    background-color:rgb(242, 242, 242);
+}
+td,th{
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+.notice{
+    background-color: rgb(2, 123, 255);
+    color: white;
+}

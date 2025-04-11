@@ -1,0 +1,45 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.tb {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+h1{
+    text-transform: uppercase;
+    color: rgb(44, 63, 80);
+}
+.cp{
+    text-transform: uppercase;
+    font-weight: 700;
+    background-color: rgb(2, 123, 255);
+    color: white;
+}
+
+.row {
+    background-color: rgb(242, 242, 242);
+}
+
+td,
+th {
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+button{
+    padding: 10px;
+    border: none;
+}
+.view{
+    color: white;
+    background-color: rgb(40, 167, 69);
+}
+.update{
+    background-color: rgb(255, 193, 9);
+}
+.delete{
+    color: white;
+    background-color: rgb(220, 53, 69);
+}
