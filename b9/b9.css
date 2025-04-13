@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.tb{
+    border-spacing: 10px;
+}
+.container{
+    width: 100%;
+    font-family: sans-serif;
+    margin-top: 15px;
+}
+.title{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.container hr{
+    border-top: 4px dashed #8c8c8c;
+    margin-bottom: 20px;
+}
+
+.col-1 img{
+    width: 250px;
+    margin-left: 5px;
+}
+.col-2 .time{
+    padding-bottom: 10pX;
+    color: #8c86a4;
+
+}
+.col-2 {
+    border-right: 2px solid #8c8c8c;
+    padding-bottom: 30px;
+    
+}
+.col-2 .content{
+    text-decoration: none;
+}
